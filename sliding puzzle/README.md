@@ -1,7 +1,7 @@
 # Sliding Puzzle
 This is a classical puzzle game for kids to play with.
 
-In the first stage of the program, the player will be asked to enter keys move the elements of in the table.
+In the first stage of the program, the player will be asked to enter keys which will be used to move the elements of in the table.
 
 ![image](game1.png)
 
