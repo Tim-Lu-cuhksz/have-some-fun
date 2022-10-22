@@ -5,9 +5,11 @@
 Click the screen to start the game. The numbers are food items in the game. Snake will be extended after eating the food items. For example, the snake will grow 5 units of length after eating the food item marked 5.
 
 Upon eating all food items, you win the game.
+
 ![image](win.png)
 
 There is also a monster in pink that you need to avoid. If the monster catches you, game is over.
+
 ![image](game_over.png)
 
 ## Design
