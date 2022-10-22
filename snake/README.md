@@ -18,3 +18,7 @@ First of all, there are four kinds of objects in the game which are snake, monst
 Second, by using onkey() and ontimer(), I can move the snake on the screen to eat food. When the snake’s head touch the food items, that food item will be cleared out and the snake will extend to the length the same as the number on the consumed food. Use turtle.distance() to check whether the snake eats the food item or not. After consuming all the food on the screen and extending to the corresponding length, the player wins the game.
 
 Third, the monster will chase the head of the snake until they collide with each other (Game over). By comparing the x and y coordinates of the snake and the monster, the monster will move to the direction of snake (Use ontimer() to make chasing possible). The monster moves at a random speed (By generating random number) within a interval, in which the least upper bound is slightly greater than the speed of snake and the most lower bound is slightly less than the speed of snake.
+
+## Bugs to be fixed
+1. Food items will be generated for multiple times for multiple clicks even after the game is completed (either win lose).
+2. To be discovered...
