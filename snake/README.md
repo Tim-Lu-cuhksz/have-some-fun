@@ -1,6 +1,6 @@
 # Snake game
 
-![image](game1.png)
+![image](game.png)
 
 Click the screen to start the game. The numbers are food items in the game. Snake will be extended after eating the food items. For example, the snake will grow 5 units of length after eating the food item marked 5.
 
