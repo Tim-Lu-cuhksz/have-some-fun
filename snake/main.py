@@ -55,7 +55,7 @@ def writeIntro(x=-200):
     g_pen.hideturtle()
     s1 = "Welcome to the snake game."
     s2 = "You are going to use 4 arrow keys to move the snake around the screen,"
-    s20 = "tring to consume all the food items before the monster catches you."
+    s20 = "trying to consume all the food items before the monster catches you."
     s3 = "Click anywhere on the screen to start the game. Have fun!!!"
     g_pen.goto(x,200)
     g_pen.write(s1,False,'left',('Arial',10,'normal'))
